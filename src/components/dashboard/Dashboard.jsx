@@ -1,5 +1,5 @@
 import React from 'react'
-import CustomNavbar from './customNavbar'
+import CustomNavbar from './CustomNavbar'
 import Footer from './Footer'
 import MiddleBar from './MiddleBar'
 import BasicTable from './BasicTable'
