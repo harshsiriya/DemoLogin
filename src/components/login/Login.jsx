@@ -14,7 +14,7 @@ const Login = () => {
 
     setTimeout(() => {
       navigate("/dashboard", { replace: true }); // Navigate directly
-    }, 2000); // Simulating a delay before navigation
+    }, 900); // Simulating a delay before navigation
   };
 
   return (
